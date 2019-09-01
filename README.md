@@ -1,5 +1,4 @@
 <img src="https://discord.js.org/static/logo.svg" align="center" width="500">
-## Rich Embed
 Uma classe para criação de embeds mais rápido.
 
 ## Requisitos
