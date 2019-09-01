@@ -28,7 +28,7 @@ module.exports = FastEmbed;
 ```
 * Na `index.js` adicione
 ```js
-const eembed = require('./RichEmbed.js');
+const eembed = require('./structures/RichEmbed.js');
 ```
 * E adicione ``eembed`` no run
 ```js
