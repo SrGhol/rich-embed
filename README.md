@@ -5,7 +5,7 @@ Uma classe para criação de embeds mais rápido.
 * É necessário a base da [Yushi](https://github.com/the-programmers-nation/yushi)
 
 ## Como utilizar
-> Criar uma pasta chamada `structures/RichEmbed.js` e colocar
+* Criar uma pasta chamada `structures/RichEmbed.js` e colocar
 ```js
 const { RichEmbed } = require('discord.js');
 
@@ -26,7 +26,7 @@ class FastEmbed extends RichEmbed {
 
 module.exports = FastEmbed;
 ```
-> Na `index.js` adicione
+* Na `index.js` adicione
 ```js
 const eembed = require('./RichEmbed.js');
 ```
@@ -34,7 +34,7 @@ const eembed = require('./RichEmbed.js');
 ```js
 command.run(client, message, args, eembed);
 ```
-> Comando
+* Comando
 ```js
 const Discord = require('discord.js');
 
