@@ -1,9 +1,6 @@
 <img src="https://discord.js.org/static/logo.svg" align="center" width="500">
 Uma classe para criação de embeds mais rápido.
 
-## Requisitos
-* É necessário a base da [Yushi](https://github.com/ruby-codes/yushi)
-
 ## Como utilizar
 * Criar uma pasta chamada `structures/RichEmbed.js` e colocar
 ```js
